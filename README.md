@@ -17,5 +17,8 @@ Here we have a list of characters (used in the map file), and the corresponding 
 
 
 ## Sprites Attribution
-I'm using the "Cute Planet" sprite pack from Daniel Cook (http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html)
+"Cute Planet" art by Daniel Cook (Lostgarden.com)
+
+Available at http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html
+
 

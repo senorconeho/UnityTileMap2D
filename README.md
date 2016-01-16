@@ -10,10 +10,12 @@ In your scene, create an empty object and add the script "TileMapBuilder".
 The XML file with the map definition
 
 #### Tile Settings
-The `Tile Width` in world units, and the `Tile Height`.
+The `Tile Width` and the `Tile Height`, both in world units. This values are used to provide the right offset between the tile objects in the scene.
 
-Using Basically, you write a map in XML format in a text file, load it in Unity and click a 'Generate' button.
+#### Tiles list
+Here we have a list of characters (used in the map file), and the corresponding prefabs (which will be instantiated in the scene. For each entry in the list you must use only single characters. To add new entries, click on the "Add new tile button"
 
-## Sprites Atribution
+
+## Sprites Attribution
 I'm using the "Cute Planet" sprite pack from Daniel Cook (http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html)
 
